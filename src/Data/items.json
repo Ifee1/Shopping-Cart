@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Bell Pepper",
+        "price": 300,
+        "imgUrl": "./public/Grocery Pictures/Bell Pepper.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Artichoke",
+        "price": 5400,
+        "imgUrl": "./public/Grocery Pictures/Artichoke.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Egg Plant",
+        "price": 250,
+        "imgUrl": "./public/Grocery Pictures/Egg Plant.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Lettuce",
+        "price": 200,
+        "imgUrl": "./public/Grocery Pictures/Lettuce.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Celery",
+        "price": 450,
+        "imgUrl": "./public/Grocery Pictures/Celery.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Bitter Melon",
+        "price": 700,
+        "imgUrl": "./public/Grocery Pictures/Bitter Melon.jpg"
+    }
+]
